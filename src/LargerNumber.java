@@ -7,6 +7,8 @@ public class LargerNumber {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		int[] A = {30,9,12,1,3};
+		
 		String[] arr = {"30", "9", "12", "1", "3"};
 
         // Custom sorting based on the comparison of concatenated strings
